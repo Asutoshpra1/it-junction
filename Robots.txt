@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asutoshpra1.github.io/it-junction/sitemap.xml
